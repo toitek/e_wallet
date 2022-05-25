@@ -1,6 +1,6 @@
 # e_wallet
 Laravel based wallet web app
-<img src="screenshots/wallet.png">
+
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
